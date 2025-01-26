@@ -1,2 +1,4 @@
-# .github
-some github ahh shit
+# Snakes
+Packages manager for Python. With versions history, automatic dependencies resolving and much more.
+
+
